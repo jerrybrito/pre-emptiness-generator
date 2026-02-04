@@ -1,0 +1,2 @@
+# Requires: pre-interval
+# (Not available on PyPI)
